@@ -7,6 +7,6 @@
 // const sam = {name: "cool dude",phone:1233546};
 // console.log(sam.gfName);
 // let fun = undefined;
-let age = [11,21,12];
-const result = age[11];
-console.log(result);
+// let age = [11,21,12];
+// const result = age[11];
+// console.log(result);
